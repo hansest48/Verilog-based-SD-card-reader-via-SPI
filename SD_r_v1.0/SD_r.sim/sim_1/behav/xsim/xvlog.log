@@ -1,0 +1,8 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_init.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sd_init
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_model.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sd_model
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_read16.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sd_read16
+INFO: [VRFC 10-2263] Analyzing Verilog file "E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sim_1/new/test_sd.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_sd

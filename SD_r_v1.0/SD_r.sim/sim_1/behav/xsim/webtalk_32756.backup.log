@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Webtalk v2020.1 (64-bit)
+# SW Build 2902540 on Wed May 27 19:54:49 MDT 2020
+# IP Build 2902112 on Wed May 27 22:43:36 MDT 2020
+# Start of session at: Thu Jan 15 15:22:18 2026
+# Process ID: 32756
+# Current directory: E:/ProjectData/lillia_bishe/VIVADO/SD_wr/SD_wr.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/ProjectData/lillia_bishe/VIVADO/SD_wr/SD_wr.sim/sim_1/behav/xsim/xsim.dir/test_sd_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/ProjectData/lillia_bishe/VIVADO/SD_wr/SD_wr.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/ProjectData/lillia_bishe/VIVADO/SD_wr/SD_wr.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/ProjectData/lillia_bishe/VIVADO/SD_wr/SD_wr.sim/sim_1/behav/xsim/xsim.dir/test_sd_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-206] Exiting Webtalk at Thu Jan 15 15:22:18 2026...

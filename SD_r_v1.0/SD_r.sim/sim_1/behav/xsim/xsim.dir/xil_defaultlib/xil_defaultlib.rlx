@@ -1,0 +1,9 @@
+0.7
+2020.1
+May 27 2020
+20:09:33
+E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.sim/sim_1/behav/xsim/glbl.v,1590624368,verilog,,,,glbl,,,,,,,,
+E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sim_1/new/test_sd.v,1768539904,verilog,,,,test_sd,,,,,,,,
+E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_init.v,1768532764,verilog,,E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_model.v,,sd_init,,,,,,,,
+E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_model.v,1768547864,verilog,,E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_read16.v,,sd_model,,,,,,,,
+E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sources_1/new/sd_read16.v,1768548054,verilog,,E:/ProjectData/lillia_bishe/VIVADO/SD_r/SD_r.srcs/sim_1/new/test_sd.v,,sd_read16,,,,,,,,
